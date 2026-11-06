@@ -1,4 +1,4 @@
-# Welcome to ElHalc8n Organization 🦅
+# Welcome to ElHalc8n Organization
 
 ### Innovative Digital Solutions & Development Hub
 
@@ -6,18 +6,18 @@
 
 ---
 
-### 🚀 About Us
+### About Us
 
 Organisasi ini didirikan sebagai pusat kolaborasi untuk membangun solusi digital yang berdampak. Kami berfokus pada pengembangan aplikasi yang *scalable*, aman, dan user-friendly.
 
 **Fokus Utama Kami:**
-* 💻 **Web Development:** Membangun aplikasi web modern dan responsif.
-* 🌍 **GIS (Geographic Information Systems):** Pengembangan sistem pemetaan dan analisis spasial.
-* 🔧 **System Management:** Solusi manajemen data dan administrasi digital.
+* **Web Development:** Membangun aplikasi web modern dan responsif.
+* **GIS (Geographic Information Systems):** Pengembangan sistem pemetaan dan analisis spasial.
+* **System Management:** Solusi manajemen data dan administrasi digital.
 
 ---
 
-### 🛠️ Technology Ecosystem
+### Technology Ecosystem
 
 Kami menggunakan berbagai teknologi modern untuk memastikan performa terbaik dalam setiap proyek:
 
@@ -34,7 +34,7 @@ Kami menggunakan berbagai teknologi modern untuk memastikan performa terbaik dal
 
 ---
 
-### 📂 Key Projects & Repositories
+### Key Projects & Repositories
 
 Organisasi ini mengelola beberapa inisiatif utama (Pin your repositories here):
 
@@ -44,13 +44,13 @@ Organisasi ini mengelola beberapa inisiatif utama (Pin your repositories here):
 
 ---
 
-### 🤝 Get Involved
+### Get Involved
 
 Kami terbuka untuk kolaborasi dan kontribusi.
 
-* 🔭 Explore our repositories below.
-* 💬 Have an idea? Open an issue or discussion.
-* 📧 Contact the maintainer: **[ElHalc8n Profile](https://github.com/ElHalc8n)**
+*  Explore our repositories below.
+*  Have an idea? Open an issue or discussion.
+*  Contact the maintainer: **[ElHalc8n Profile](https://github.com/elhalc8n)**
 
 <p align="center">
   Built with passion by the ElHalc8n Team.
